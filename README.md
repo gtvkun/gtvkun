@@ -1,59 +1,37 @@
-### 👋 Olá! Seja bem-vindo(a) ao meu GitHub!
+### Fala aí! 👋
 
-Me chamo **Gustavo Coelho Domingos**, sou **Engenheiro em Eletrônica e Telecomunicações**, **Instrutor Técnico em Eletrotécnica** e **Mestrando em Engenharia Elétrica** com foco em **Processamento de Sinais e Comunicações**.
+Sou o **Gustavo Domingos** — engenheiro, educador e curioso por tecnologia desde sempre. 👨‍💻
 
----
+Tenho uma longa estrada na área técnica (elétrica, eletrônica, redes, automação...) e também já atuei como instrutor em cursos técnicos. Mas nos últimos tempos, estou ampliando minha carreira com foco em:
 
-### 💡 Sobre mim
+🚀 **Ciência de Dados**  
+🧬 **Algoritmos Genéticos**  
+💻 **Linguagens de Programação** (Python, HTML, entre outras)
 
-🔧 Possuo mais de 15 anos de experiência na área técnica, atuando com:
-
-- Manutenção e instalação de sistemas eletrônicos
-- Automação industrial
-- Redes estruturadas, CFTV e PABX
-- Instalações elétricas prediais
-
-📚 Na área educacional, tenho vivência como **Instrutor Técnico** nas disciplinas de:
-
-- Máquinas Elétricas
-- Comandos Elétricos
-- Eletrônica Digital
-- Física e Matemática
-
-🎓 Atualmente sou **mestrando em Engenharia Elétrica pela UFU**, buscando unir conhecimento técnico e científico para desenvolver soluções inovadoras em **engenharia** e **educação tecnológica**.
-
-💻 Em transição de carreira, focado no desenvolvimento de **soluções em Python e HTML**, aplicadas principalmente à automação e organização de processos técnicos.
+Gosto de aprender coisas novas, resolver problemas com código e transformar ideias em projetos que funcionam na prática.  
 
 ---
 
-### 🚀 Projetos em destaque
+### 🔧 Alguns projetos que desenvolvi:
 
-- [**AGMaquinas**](https://github.com/gtvkun/AGMaquinas): Sistema de controle de manutenção de máquinas industriais (Python)
-- [**amigoSecreto**](https://github.com/gtvkun/amigoSecreto): Aplicativo simples para sorteios de amigo secreto (HTML)
+- [**AGMaquinas**](https://github.com/gtvkun/AGMaquinas): sistema para manutenção de máquinas industriais (Python)  
+- [**amigoSecreto**](https://github.com/gtvkun/amigoSecreto): sorteador simples feito em HTML  
 
 ---
 
-### 🧰 Tecnologias
+### 🛠️ Tecnologias que curto usar:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtvkun&show_icons=true&theme=radical)
-
----
-
-### 📫 Contato
+### 📬 Bora trocar uma ideia?
 
 📧 gustavo.domingos@hotmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/gustavocoelhodomingos/)  
-📍 Uberlândia - MG, Brasil
+🔗 [LinkedIn](https://www.linkedin.com/in/gustavocoelhodomingos/)
 
 ---
 
-🔍 Sempre buscando novos desafios onde eu possa aplicar minha experiência técnica, minha paixão por ensinar e minha formação acadêmica para transformar ideias em soluções!
-
+> “Aprender, ensinar e criar: essa é a vibe.” ✌️
 
